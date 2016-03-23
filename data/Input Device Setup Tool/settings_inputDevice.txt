@@ -1,0 +1,49 @@
+========================================
+---------------- Device ----------------
+Clavier
+
+========================================
+--------------- Buttons ----------------
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+No Action
+
+========================================
+--------------- Sliders ----------------
+No Action
+No Action
+No Action
+
+
+
+
+
+
+
